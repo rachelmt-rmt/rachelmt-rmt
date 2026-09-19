@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Rachel 👋
 
-<!--
-**rachelmt-rmt/rachelmt-rmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an applied public health researcher, evaluator and programme specialist with experience using data, research evidence and community knowledge to support better decision-making.
 
-Here are some ideas to get you started:
+My professional experience spans public health, research and evaluation, humanitarian programmes and community-led initiatives in Aotearoa New Zealand and internationally. I am particularly interested in work that connects data and evidence with the contexts and communities behind the numbers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently strengthening my data analytics practice through hands-on projects using Python, Pandas, SQL/MySQL, Power BI, Microsoft Excel and Microsoft Fabric.
+
+## 📊 Data Analytics Portfolio
+
+### 🏠 House Price Prediction
+Exploratory data analysis and predictive modelling using Multiple Linear Regression and Random Forest Regression, with model performance evaluated using RMSE.
+
+### 🎮 Gaming Sales & Customer Engagement Analysis
+MySQL analysis of gaming sales, customer reviews and player engagement using joins, aggregations and SQL window functions to generate business insights.
+
+### 📈 Retail Sales Analysis & Time-Series Forecasting
+Retail sales analysis using Python, Pandas, SQL and Microsoft Fabric, including relational database analysis, exploratory data analysis and ARIMA time-series forecasting.
+
+## 🛠️ Technical Skills
+
+**Data Analysis:** Python | Pandas | Excel | Exploratory Data Analysis  
+**Databases:** SQL | MySQL | Azure SQL  
+**Visualisation:** Power BI | Python | Excel  
+**Predictive Analytics:** Multiple Linear Regression | Random Forest Regression | RMSE  
+**Time Series:** ARIMA Forecasting  
+**Platforms:** Microsoft Fabric | GitHub
+
+## 🔎 Professional Interests
+
+Public Health | Health Equity | Research & Evaluation | Data Analytics | Community Insights | Evidence Translation
+
+## 🔗 Connect with me
+
+- LinkedIn: [Rachel Mukwezwa Tapera](https://www.linkedin.com/in/rachelmtapera/)
