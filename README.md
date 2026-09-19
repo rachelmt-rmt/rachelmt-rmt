@@ -8,13 +8,13 @@ I am currently strengthening my data analytics practice through hands-on project
 
 ## 📊 Data Analytics Portfolio
 
-### 🏠 House Price Prediction
+### 🏠 [House Price Prediction](https://github.com/rachelmt-rmt/house-price-prediction)
 Exploratory data analysis and predictive modelling using Multiple Linear Regression and Random Forest Regression, with model performance evaluated using RMSE.
 
-### 🎮 Gaming Sales & Customer Engagement Analysis
+### 🎮 [Gaming Sales & Customer Engagement Analysis](https://github.com/rachelmt-rmt/gaming-sales-customer-engagement-analysis)
 MySQL analysis of gaming sales, customer reviews and player engagement using joins, aggregations and SQL window functions to generate business insights.
 
-### 📈 Retail Sales Analysis & Time-Series Forecasting
+### 📈 [Retail Sales Analysis & Time-Series Forecasting](https://github.com/rachelmt-rmt/retail-sales-analysis-forecasting)
 Retail sales analysis using Python, Pandas, SQL and Microsoft Fabric, including relational database analysis, exploratory data analysis and ARIMA time-series forecasting.
 
 ## 🛠️ Technical Skills
